@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v3.9.0 (2020-11-04)
+### Feature
+* Don't check builds on non-building cmts ([`8dece0f`](https://github.com/RyanFleck/Contraptions/commit/8dece0f4d2e8f5b8dd4bc92ded7e5e167908a330))
+* Add 'd' function. ([`60e886c`](https://github.com/RyanFleck/Contraptions/commit/60e886cbb1a677b57e132983f60bed818fb51a6d))
+* Add 'b' and 'c' functions. ([`526bea4`](https://github.com/RyanFleck/Contraptions/commit/526bea416b76181872677055c3954658e0f81734))
+* Update fetch depth, add 'a' function ([`e77fe6a`](https://github.com/RyanFleck/Contraptions/commit/e77fe6aff9bc005e2930ecf7dcfb4f6f6fe1d25c))
+
 ## v3.8.0 (2020-11-04)
 ### Feature
 * Remove 'a' function. ([`64b0d10`](https://github.com/RyanFleck/Contraptions/commit/64b0d10aec6edaca2fe60fad830c219a78cafbf1))
