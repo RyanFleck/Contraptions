@@ -3,11 +3,13 @@ Contraptions
 ============
 
 
+
 .. image:: https://img.shields.io/pypi/v/contraptions.svg
         :target: https://pypi.python.org/pypi/contraptions
 
-.. image:: https://img.shields.io/travis/RyanFleck/contraptions.svg
-        :target: https://travis-ci.com/RyanFleck/contraptions
+
+.. image:: https://github.com/RyanFleck/Contraptions/workflows/Workflow/badge.svg?branch=master
+        :target: https://github.com/RyanFleck/Contraptions/commits/master
 
 .. image:: https://readthedocs.org/projects/contraptions/badge/?version=latest
         :target: https://contraptions.readthedocs.io/en/latest/?badge=latest
