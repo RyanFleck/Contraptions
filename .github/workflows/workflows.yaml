@@ -54,6 +54,11 @@ jobs:
                   pip install -r requirements_dev.txt
                   pip install python_semantic_release
 
+            - name: Configure Git 
+              run: |
+                  git config --global user.name "Github Actions"
+                  git config --global user.email "github-actions@ci"      
+
             - name: Semantic Release Publish 
               run: |
                   semantic-release publish 
