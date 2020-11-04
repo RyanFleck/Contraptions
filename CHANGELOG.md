@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.5.0 (2020-11-04)
+### Feature
+* Merge branch 'test-branch' ([`e6a1a2b`](https://github.com/RyanFleck/Contraptions/commit/e6a1a2bf2e7662b805319d090d1fffab483c7566))
+
 ## v3.4.0 (2020-11-04)
 ### Feature
 * Remove multiplication function ([`b3dd99e`](https://github.com/RyanFleck/Contraptions/commit/b3dd99ef8b55e667c55f108821788d8fac593f07))
