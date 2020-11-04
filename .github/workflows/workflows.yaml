@@ -34,8 +34,7 @@ jobs:
 
     semver:
         runs-on: ubuntu-latest
-        needs:
-            - test
+        needs: test
 
         env:
             SOME_ENV_VAR: "val"
@@ -53,13 +52,10 @@ jobs:
                     python -m pip install --upgrade pip
                     pip install -r requirements.txt
                     pip install -r requirements_dev.txt
-                    pip install -U tox
 
     publish:
         runs-on: ubuntu-latest
-        needs:
-            - semver
-            - test
+        needs: [test, semver]
 
         env:
             SOME_ENV_VAR: "val"
@@ -77,4 +73,3 @@ jobs:
                     python -m pip install --upgrade pip
                     pip install -r requirements.txt
                     pip install -r requirements_dev.txt
-                    pip install -U tox
