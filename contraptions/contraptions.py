@@ -27,7 +27,3 @@ def d():
 
 def e():
     return "x"
-
-
-def f():
-    return "fffff!"

@@ -54,9 +54,9 @@ jobs:
 
             - name: Configure Git
               run: |
-                  git config --global user.name "Github Actions"
-                  git config --global user.email "github-actions@ci"
+                  git config --global user.name "actions-user"
+                  git config --global user.email "actions@github.com"
 
             - name: Semantic Release Publish
               run: |
-                  semantic-release publish
+                  semantic-release publish -v DEBUG
