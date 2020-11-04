@@ -19,7 +19,3 @@ def b():
 
 def c():
     return "x"
-
-
-def d():
-    return "x"
