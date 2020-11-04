@@ -53,13 +53,18 @@ jobs:
                   pip install -r requirements.txt
                   pip install -r requirements_dev.txt
                   pip install python_semantic_release
-            
+
             - name: Install dependencies
               run: |
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
                   pip install -r requirements_dev.txt
                   pip install python_semantic_release
+
+            - name: List Semantic Release Information
+              run: |
+                  semantic-release version
+                  semantic-release changelog
 
     publish:
         runs-on: ubuntu-latest
@@ -82,3 +87,8 @@ jobs:
                   pip install -r requirements_dev.txt
                   pip install python_semantic_release
 
+            - name: Semantic Release Publish
+              run: |
+                  semantic-release version
+                  semantic-release changelog
+                  semantic-release publish -v INFO
