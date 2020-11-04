@@ -13,11 +13,13 @@ Contraptions
         :target: https://contraptions.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
 .. image:: https://pyup.io/repos/github/RyanFleck/contraptions/shield.svg
      :target: https://pyup.io/repos/github/RyanFleck/contraptions/
      :alt: Updates
 
+.. image:: https://pyup.io/repos/github/RyanFleck/Contraptions/python-3-shield.svg
+     :target: https://pyup.io/repos/github/RyanFleck/Contraptions/
+     :alt: Python 3
 
 
 Contraptions is a collection of algorithms and utilities used in my personal py-projects.
