@@ -54,6 +54,6 @@ jobs:
                   pip install -r requirements_dev.txt
                   pip install python_semantic_release
 
-            - name: Semantic Increment Version
+            - name: Semantic Release: Publish 
               run: |
-                  semantic-release release
+                  semantic-release publish 
