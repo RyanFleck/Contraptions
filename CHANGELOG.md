@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.8.0 (2020-11-04)
+### Feature
+* Remove 'a' function. ([`64b0d10`](https://github.com/RyanFleck/Contraptions/commit/64b0d10aec6edaca2fe60fad830c219a78cafbf1))
+
 ## v3.7.0 (2020-11-04)
 ### Feature
 * Complete incredibly complex 'f' func ([`59544ae`](https://github.com/RyanFleck/Contraptions/commit/59544aeb4f4acb743f2ba99f1b9bddf36fd1bf91))
