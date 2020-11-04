@@ -11,3 +11,7 @@ def subtract(a: int, b: int) -> int:
 
 def a():
     return "a"
+
+
+def b():
+    return "b"
