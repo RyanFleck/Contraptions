@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.7.0 (2020-11-04)
+### Feature
+* Complete incredibly complex 'f' func ([`59544ae`](https://github.com/RyanFleck/Contraptions/commit/59544aeb4f4acb743f2ba99f1b9bddf36fd1bf91))
+
 ## v3.6.0 (2020-11-04)
 ### Feature
 * Ensure version is set to semver ([`d8254dc`](https://github.com/RyanFleck/Contraptions/commit/d8254dca326a31f9c34cb8ba3c06c8ef7fc73f97))
