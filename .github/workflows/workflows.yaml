@@ -52,6 +52,14 @@ jobs:
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
                   pip install -r requirements_dev.txt
+                  pip install python_semantic_release
+            
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -r requirements.txt
+                  pip install -r requirements_dev.txt
+                  pip install python_semantic_release
 
     publish:
         runs-on: ubuntu-latest
@@ -62,8 +70,15 @@ jobs:
               with:
                   fetch-depth: 0
 
-            - name: Python Semantic Release
-              uses: relekang/python-semantic-release@master
+            - name: Set up Python 3.8.*
+              uses: actions/setup-python@v1
               with:
-                  github_token: ${{ secrets.GH_TOKEN }}
-                  pypi_token: ${{ secrets.PYPI_TOKEN }}
+                  python-version: 3.8.*
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -r requirements.txt
+                  pip install -r requirements_dev.txt
+                  pip install python_semantic_release
+
