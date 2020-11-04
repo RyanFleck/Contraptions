@@ -15,3 +15,7 @@ def a():
 
 def b():
     return "b"
+
+
+def c():
+    return "c"
