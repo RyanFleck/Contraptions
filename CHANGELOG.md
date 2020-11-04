@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.3.0 (2020-11-04)
+### Feature
+* Add git config stuff. ([`2abdd81`](https://github.com/RyanFleck/Contraptions/commit/2abdd816ad03efca7ec81cd61b08bd75ce474e57))
+
 ## v3.2.0 (2020-11-04)
 ### Feature
 * Remove colon from workflow step name ([`2733b5d`](https://github.com/RyanFleck/Contraptions/commit/2733b5dad4f8d8abd4fbfd66992c9477a5e122dc))
