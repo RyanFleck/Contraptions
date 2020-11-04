@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.6.0 (2020-11-04)
+### Feature
+* Ensure version is set to semver ([`d8254dc`](https://github.com/RyanFleck/Contraptions/commit/d8254dca326a31f9c34cb8ba3c06c8ef7fc73f97))
+
 ## v3.5.0 (2020-11-04)
 ### Feature
 * Merge branch 'test-branch' ([`e6a1a2b`](https://github.com/RyanFleck/Contraptions/commit/e6a1a2bf2e7662b805319d090d1fffab483c7566))
