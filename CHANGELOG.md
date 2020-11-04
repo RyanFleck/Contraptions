@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.4.0 (2020-11-04)
+### Feature
+* Remove multiplication function ([`b3dd99e`](https://github.com/RyanFleck/Contraptions/commit/b3dd99ef8b55e667c55f108821788d8fac593f07))
+
 ## v3.3.0 (2020-11-04)
 ### Feature
 * Add git config stuff. ([`2abdd81`](https://github.com/RyanFleck/Contraptions/commit/2abdd816ad03efca7ec81cd61b08bd75ce474e57))
