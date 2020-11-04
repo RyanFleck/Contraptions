@@ -23,7 +23,3 @@ def c():
 
 def d():
     return "x"
-
-
-def e():
-    return "x"
