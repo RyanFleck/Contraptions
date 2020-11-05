@@ -5,7 +5,7 @@
 # import pytest
 
 
-from contraptions import contraptions
+from contraptions import add, subtract
 
 # @pytest.fixture
 # def response():
