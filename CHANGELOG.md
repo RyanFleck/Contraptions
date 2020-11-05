@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.10.1 (2020-11-05)
+### Fix
+* Update README. ([`1296f4b`](https://github.com/RyanFleck/Contraptions/commit/1296f4b0f0a3631f033df218ffed13b97098202b))
+
 ## v3.10.0 (2020-11-05)
 ### Feature
 * Add scramble function. ([`486dc7d`](https://github.com/RyanFleck/Contraptions/commit/486dc7de21db465d8747f481b8a06a8274e01e69))
