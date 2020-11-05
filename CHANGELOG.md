@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v3.10.0 (2020-11-05)
+### Feature
+* Add scramble function. ([`486dc7d`](https://github.com/RyanFleck/Contraptions/commit/486dc7de21db465d8747f481b8a06a8274e01e69))
+
+### Fix
+* Change how functions are called ([`b73fb76`](https://github.com/RyanFleck/Contraptions/commit/b73fb76a1b983fb4bd13155bea6e6ae780c89da7))
+
 ## v3.9.0 (2020-11-04)
 ### Feature
 * Don't check builds on non-building cmts ([`8dece0f`](https://github.com/RyanFleck/Contraptions/commit/8dece0f4d2e8f5b8dd4bc92ded7e5e167908a330))
