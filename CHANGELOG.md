@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.10.2 (2020-11-05)
+### Fix
+* Fix version reference in setup.py ([`c6f1588`](https://github.com/RyanFleck/Contraptions/commit/c6f1588b2e3b0a968adee94ffe7f56d740217c3c))
+
 ## v3.10.1 (2020-11-05)
 ### Fix
 * Update README. ([`1296f4b`](https://github.com/RyanFleck/Contraptions/commit/1296f4b0f0a3631f033df218ffed13b97098202b))
