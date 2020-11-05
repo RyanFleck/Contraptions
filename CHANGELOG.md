@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v3.10.3 (2020-11-05)
+### Fix
+* Change pointer to history file. ([`715c6ee`](https://github.com/RyanFleck/Contraptions/commit/715c6eed9d13aadeddd90ab62e575bebe7832fc1))
+
 ## v3.10.2 (2020-11-05)
 ### Fix
 * Fix version reference in setup.py ([`c6f1588`](https://github.com/RyanFleck/Contraptions/commit/c6f1588b2e3b0a968adee94ffe7f56d740217c3c))
