@@ -12,5 +12,5 @@ from contraptions import add, subtract
 
 
 def test_content():
-    assert contraptions.add(1, 2) == 3
-    assert contraptions.subtract(2, 1) == 1
+    assert add(1, 2) == 3
+    assert subtract(2, 1) == 1
