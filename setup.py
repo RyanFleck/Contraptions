@@ -4,6 +4,7 @@
 import sys
 
 import semantic_release
+import contraptions
 
 from setuptools import setup, find_packages
 
@@ -46,7 +47,7 @@ setup(
     test_suite="tests",
     tests_require=test_requirements,
     url="https://github.com/RyanFleck/contraptions",
-    version=semantic_release.__version__,
+    version=contraptions.__version__,
     zip_safe=False,
 )
 
